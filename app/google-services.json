@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "116823155296",
+    "firebase_url": "https://staypresent-e8290.firebaseio.com",
+    "project_id": "staypresent-e8290",
+    "storage_bucket": "staypresent-e8290.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116823155296:android:1d24488bdd8940f9",
+        "android_client_info": {
+          "package_name": "com.sktrjay.staypresent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116823155296-ti6mn5q24637atblla3492ampm3jnheh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sktrjay.staypresent",
+            "certificate_hash": "cd5457c24593092fcdcdb999d222cb56eca67c45"
+          }
+        },
+        {
+          "client_id": "116823155296-jbsgnim4ohqhcjm4vdf554hpbsm16emm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZCVOoVXHJh3fmME8QvKbOKiDvyylLhkY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116823155296-jbsgnim4ohqhcjm4vdf554hpbsm16emm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
